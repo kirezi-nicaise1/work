@@ -1,0 +1,21 @@
+img{
+    width: 20%;
+}
+.p1,.p2,.p3,.p4,.p5,.p6,.p7,.p8{
+    display: flex;
+    flex-direction: column;
+}
+.public{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15%;
+    margin: 5%;
+}
+body{
+    background-color: bisque;
+}
+.header{
+    display: flex;
+    background-color:burlywood;
+    gap: 60vw;
+}
